@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code / editors
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Word temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
